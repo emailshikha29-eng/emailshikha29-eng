@@ -1,4 +1,4 @@
-# ReadMe
+# ABOUT ME
 # Hi, I’m Shikha 👋  
 
 _AI Project & Delivery Manager | Technical Program Manager (AI/ML)_
